@@ -1,0 +1,1 @@
+enum DrawerStateEnum { TvSeries, Movies }
