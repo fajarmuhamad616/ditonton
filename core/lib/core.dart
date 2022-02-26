@@ -15,6 +15,7 @@ export 'data/datasources/movie_remote_data_source.dart';
 export 'data/datasources/tvseries_local_data_source.dart';
 export 'data/datasources/tvseries_remote_data_source.dart';
 export 'data/models/movie_model.dart';
+export 'data/models/tvseries_model.dart';
 export 'data/repositories/movie_repository_impl.dart';
 export 'data/repositories/tvseries_repository_impl.dart';
 export 'domain/repositories/movie_repository.dart';
